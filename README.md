@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ramcharan 👋
 
-<!--
-**p-ramcharan-dev/p-ramcharan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech AI student at IIT Gandhinagar building and deploying AI-driven micro-SaaS products.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Learning: SaaS architecture, API monetization, and production-grade Python deployment.
+- Shipping: One micro-SaaS or AI-powered tool every month.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 📊 2026 Goals
+- [ ] Ship 3 profitable micro-SaaS products
+- [ ] Reach first $100 in Monthly Recurring Revenue (MRR)
+- [ ] Build a 500+ follower "Building in Public" community
+- [ ] Successfully integrate advanced AI agents into a customer-facing SaaS
+
+## 📫 Connect
+- Twitter: (Coming Soon)(Building in public)
+- Email: p.reddy@iitgn.ac.in
+- Status: Open for collaborations on lean SaaS builds
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+💡 **Looking to collaborate?** DM me on Twitter or email - always happy to connect with fellow builders and founders!
