@@ -19,7 +19,7 @@ First-year B.Tech AI student at IIT Gandhinagar building and deploying AI-driven
 - [ ] Successfully integrate advanced AI agents into a customer-facing SaaS
 
 ## 📫 Connect
-- Twitter: (Coming Soon)(Building in public)
+- Twitter: [@p_ramcharan_dev](https://x.com/p_ramcharan_dev) (Building in public)
 - Email: psairamcharanreddy1@gmail.com
 - Status: Open for collaborations on lean SaaS builds
 
