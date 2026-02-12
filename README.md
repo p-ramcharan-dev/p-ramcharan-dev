@@ -20,7 +20,7 @@ First-year B.Tech AI student at IIT Gandhinagar building and deploying AI-driven
 
 ## 📫 Connect
 - Twitter: (Coming Soon)(Building in public)
-- Email: p.reddy@iitgn.ac.in
+- Email: psairamcharanreddy1@gmail.com
 - Status: Open for collaborations on lean SaaS builds
 
 ## 📈 GitHub Stats
