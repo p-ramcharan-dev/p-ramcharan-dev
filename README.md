@@ -1,6 +1,6 @@
 # Hi, I'm Ramcharan 👋
 
-First-year B.Tech AI student at IIT Gandhinagar building and deploying AI-driven micro-SaaS products.
+Student building and deploying AI-driven micro-SaaS products.
 
 ## 🚀 Current Focus
 - Learning: SaaS architecture, API monetization, and production-grade Python deployment.
