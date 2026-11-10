@@ -17,7 +17,9 @@ I'm a freelance developer who makes slow Python code fast. I profile first, fix 
 - **Honest limits.** Jobs spread over many bins gain about 5x, because that loop is still Python. Fractional sizes run at the original speed. The write-up says so.
 - Checked under AddressSanitizer and UBSan, on Python 3.13 and 3.11.
 
-[Case study](https://github.com/p-ramcharan-dev/fastrectpack/blob/main/CASE_STUDY.md) · [Benchmarks and method](https://github.com/p-ramcharan-dev/fastrectpack/blob/main/BENCHMARKS.md)
+`pip install fastrectpack`
+
+[PyPI](https://pypi.org/project/fastrectpack/) · [Case study](https://github.com/p-ramcharan-dev/fastrectpack/blob/main/CASE_STUDY.md) · [Benchmarks and method](https://github.com/p-ramcharan-dev/fastrectpack/blob/main/BENCHMARKS.md)
 
 ## How I work
 
